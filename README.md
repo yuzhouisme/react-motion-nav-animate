@@ -167,3 +167,10 @@ Don't forget clear those timer when component unmount.
 Careful observation, discover, you can make it.
 
 I hope that can help you, thank you ;)
+
+## Write in react and antd I used
+
+My Blog [yuzhouisme.com](http://yuzhouisme.com/).
+
+Tome, help students to remember words [tome.yuzhouisme.com](http://tome.yuzhouisme.com).
+
